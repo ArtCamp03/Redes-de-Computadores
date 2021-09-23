@@ -1,0 +1,2 @@
+ip address add dev eth0 10.5.5.1/24
+ip address add dev eth0 10.5.6.1/24
