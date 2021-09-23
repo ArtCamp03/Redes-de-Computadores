@@ -1,0 +1,3 @@
+a partir da estrutura criada no cap 8 . faça uma extensao que contara com um roteador r0 , entre r1 e r3 preenchendo a tabela rip , e o conectando com as demais redes, alem disso criar tres computadores (C1,C2,C3) entre os hosts r1, r0, e r4 onde conversaram entre si porem nao receberam a tabela de repasse rip dos hosts.
+
+
