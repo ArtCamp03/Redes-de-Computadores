@@ -1,1 +1,1 @@
-ip address add dev eth0 200.2.19.0/21
+ip address add dev eth0 200.2.0.19/29
