@@ -1,0 +1,9 @@
+brctl addbr br 
+brctl addif br eth0
+brctl addif br eth1
+brctl addif br eth2
+brctl addif br eth3
+brctl addif br eth4
+brctl addif br eth5
+brctl show 
+ifconfig br up
