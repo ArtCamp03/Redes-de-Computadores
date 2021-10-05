@@ -4,8 +4,8 @@ ip address add dev eth2 192.168.0.1/16
 
 iptables -F
 iptables -X
-iptables -t ant -F
-iptables -t ant -X
+iptables -t nat -F
+iptables -t nat -X
 
 iptables -P INPUT DROP
 iptables -P FORWARD DROP
